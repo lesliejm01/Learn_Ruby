@@ -1,7 +1,7 @@
 # CSV to LDIF script
 # Author: John Leslie
 # Date: 28 DEC 2015
-# Usage: # ruby script.rb <inputfile> <outputfile>
+# Usage: # ruby script.rb <input_file.csv> <output_file.ldif>
 
 # Method
 def PDPCONTEXT(input,output)
