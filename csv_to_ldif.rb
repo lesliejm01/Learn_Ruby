@@ -31,5 +31,10 @@ end # END of Method
 input = ARGV[0] # input file
 output = ARGV[1] # output file
 
-# Call Method
-PDPCONTEXT(input,output)
+if ARGV.length == 0 || ARGV[0] == "-help"
+	print "\nPlease use the following format:\n$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\nRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
+else
+	# Call Method
+	PDPCONTEXT(input,output)	
+end
+
