@@ -1,0 +1,3031 @@
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmobile.internet.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: sipcf002.apn001.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: gne
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: UPSA1
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: service
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc-scpcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: tm1nmrx
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.tracfone
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: internet2.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: locate.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: tmus
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ONBOARD1.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: solavei-depcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ims.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: m2m.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: morganstanley.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: EXTENDED.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: a1.diad.ups.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: good.call (SunCom)
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmus.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: track.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: ims
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: a11.diad.ups.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: UPSA2
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wholesale.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmus
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: cidagps.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: multibrand
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: APNIPV4.TMO.COM
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: *
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test.lte.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: wap.tracfone
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: follow.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ims.epdg.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: E-Funds
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: pro.wtdata.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: dummy2
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: multibrand
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: H2G2-T
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Hiptop (SunCom)
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: g1.tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: c1.korem2m.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: AVL
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: a2.diad.ups.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ny2.gtech.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: mms.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alert.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: c2.korem2m.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: ims
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: telargo.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccinternet3.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: stgwap.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: flexing2.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: epc.tmobile.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: test8
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: labceg.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: *
+chargCharac: 2
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccinternet3.t-mobile.com  
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: eng.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: csnqi2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmobile.ineternet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2@t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc.TMObile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: simple
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: devopw.t-mobie.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pwg
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: airdesk01.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: m2mGlobal
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: avl.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc-nvpcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: tmobile.internet
+chargCharac: 4
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc-nypcf003.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: lab1.test.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb-scpcf001.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: ims
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: EPC.TMOBILE.COM
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmus.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: musa.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: usps.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: fast.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: us.vodafone.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wholesale
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: alert1.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccali2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: follow.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: engvoicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: eng6.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: wholesale.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: MMS.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: blackberry.net
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: chapn
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wholesale
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Chapn
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: hiptop.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: MMS.Voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.makeittuyo.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: t-mobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devopw@t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: i3-atpcf000.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmobile.internet.loadtest
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Internet3.Voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: flexing.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: ota.bell.ca
+chargCharac: 8
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devpow.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: avis.wow.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: internet3.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: Blackberry.net
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2.t-mmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: grid.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alert1.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: blackberry.net
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2.t-mmobile.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ALERT1.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: WAP.Voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alarm.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: c1.korem2m.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: c2.korem2m.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: simple
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.metropcs.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: m2m.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mms.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2.t-mobile
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devpow.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: EPC.TMOBILE3.COM
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: internet3.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: testone
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 
+accPointName: mms.t-d1.de
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccsnoi2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fast.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: t-mobile.internet
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devwap.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: blackberry.net
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb-crpcf001.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test20
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alert1.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.metropcs.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alarm.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: H2G2
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: devpow.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: nova
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 3
+accPointName: apn
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc-dnpcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: arbitron.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: ims
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: mobiledata.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: a1.diad.ups.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ny2.gtech.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: telargo.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ionx.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: navigate.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Airdesk
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: pcweb.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: geoduck
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: wap.tmobile.com
+chargCharac: 2
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: test13
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: gne
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test18
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: pcweb.metropcs.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc-nypcf001.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: Wap.Tmobile.com
+chargCharac: 2
+extPdpType: 1
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmobile.internet.loadtest
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: arbitron.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmus.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: test11
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: roaming.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fast.metropcs.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc-atpcf000.t-mobile.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: MMS.voicesteam.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: EPC.TMOBILE.COM
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devopw.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: aprivadisa.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: simple
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pwg
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: lab1.test.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: test.lte.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: auto.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: control.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: wap2.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: connect.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2.t-mobile.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mobiledata.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccalti2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: a1.diad.ups.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: internet2.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: AVL
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: fast.tmobile.net
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: *
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: auto.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: pwg
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: test7
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: EPC.TMOBILE.COM
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 
+accPointName: wap.debitel.de
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: eng.voicstream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: H2G2
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mobiledata.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ccsnqi2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: monitor.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: a1.diad.ups.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fedex.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: internet2.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Internet2.Voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.TMObile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: alarm.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pcweb.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ionx.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: 
+pdpType: 
+accPointName: 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: testone.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: internet2.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: stgwap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmus
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: multibrand
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: connect.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: us.vodafone.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: *
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: eng.voicestream.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: fast.metropcs.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: data.lycamobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Blackberry.net
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test9
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: blackberry.net
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: US.vodafone.com.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: internet2@voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: grid.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ims
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: Slogic.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wen3.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: hiptop.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ccinternet2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mbb
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alliance.t-mobile.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: epc.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alliance.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: sipcf002.apn001.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: pcweb.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: data.lycamobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Slogic.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: devopw.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 3
+accPointName: monitor.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mvno-atpcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc-scpcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.tracfone
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: opti2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: orbcomm.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: N
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc-seggsn14.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test12
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: APNIPV6.TMO.COM
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: Chapn
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: tmus
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: m2m.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: *
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: EPC.TMOBILE.COM
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: auto.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: i2-sepcf000.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: elite.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: AVL
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc.tmobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: ccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Chapn-T
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc.TMObile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: chapn-T
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: ims
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: devopw.t-moible.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: blackberry.net
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: wap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test14
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: ims.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: epc.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.int.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: grid.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alert.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: *
+chargCharac: 4
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: multibrand
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc-chpcf002.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: ims
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc-chpcf001.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: us.vodafone.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmobile2.internet
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: a2.diad.ups.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: eng.voicestrean.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: nova
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: *
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wen1.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test16
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: devpow.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: H2G2
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccsngi2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: web.omwtoday.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tm1nmrx
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: m2mglobal
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: alarm.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: B2B.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: MMS.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: fast.metropcs.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: epc-crpcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: roam
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test.qos.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test17
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: gne
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: fast.t-mobile.com 
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: control.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: fast.metropcs.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: simple-vgpcf017.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: solavei
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: US.vodafone.com.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ccsnqi2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: internet2.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test15
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: orbcomm.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: pro.wtdata.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: wholesale
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: *
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devopw.t-mobile.com 
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ims
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmobile.internet
+chargCharac: 4
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: alert.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Mobileinternet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: fast.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: Slogic.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: flexing2.lab
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: pcweb.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: lab1.test.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: avl.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mbb
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: stpwap.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fedexground1.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: web.omwtoday.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: t-mobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: internet3.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: a11.diad.ups.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: eng.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wap.voicestream.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: telargo.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: epc-dapcf000.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: alpha
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wen.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: epc.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fbi.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: test.lte.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: fast.metropcs.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: iccatli2.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: test10
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: good.call
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: m2mGlobal
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: a2.diad.ups.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: fast.tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: mms.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: web.omwtoday.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: v-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 2
+accPointName: pcweb.tmobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: weng.voicestream.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: service
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: usps.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: MMS
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: solavei
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: geoduck
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: wholesale
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: alpha
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: chapn
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: internet2.voicestream.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 4
+accPointName: tmobile.internet
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: control.t-mobile.com
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: test19
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: mms.voicestream
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: orbcomm.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: multibrand.lab
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: ims
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: efunds.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 2
+accPointName: devopw.t-mobile.com
+chargCharac: 
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: t
+pdpType: 1
+accPointName: tmobile.internet
+chargCharac: 4
+extPdpType: 
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 4
+accPointName: Chapn
+chargCharac: 
+extPdpType: 5
+
+dn: pdpContextName=PDP_<entry count>,o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB
+vplmnAllowed: f
+pdpType: 1
+accPointName: wen2.voicestream.com
+chargCharac: 
+extPdpType: 
+
