@@ -7,6 +7,7 @@
 
 
 # File I/O
+=begin
 file = File.open("sample.txt", 'r')
 while !file.eof?
    line = file.readline
@@ -28,7 +29,10 @@ lines = File.open("sample.txt", "r"){ |datafile|
 }
 
 lines.each{|line| puts line}
-
+=end
+somefile = File.open("sample.txt", "w")
+somefile.puts "Hello file!"
+somefile.close
 # Do/While
 
 
