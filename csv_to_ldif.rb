@@ -39,7 +39,7 @@ output = ARGV[1] # output file
 # Basic Error Handling / 'help' statement
 if ARGV.length == 0 || ARGV[0] == "-help"
 	print "\nPlease use the following format:\n$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\nRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
-elsif ARGV[0].length != 0 && ARGV[1].length == 0
+elsif ARGV[0] != nil && ARGV[1] == nil
   print "\nYou forgot to enter an output file name\nPlease consult '-help' flag at runtime for argument list.\n\n"
 else
 	# Call Method / Convert CSV --> LDIF
