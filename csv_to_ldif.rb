@@ -33,6 +33,9 @@ def PDPCONTEXT(input,output)
   infile.close # THEN close input file
 end # END of Method
 
+# Define "help" string
+help_string = "\nWelcome To CSV To LDIF Converter!\n\tPlease use the following format:\n\t$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\n\tRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
+
 # Take in ARGS
 input = ARGV[0] # input file
 output = ARGV[1] # output file
@@ -40,16 +43,33 @@ output = ARGV[1] # output file
 # Basic Error Handling / 'help' statement
 # If no ARGS or '-help' show HELP
 if ARGV.length == 0 || ARGV[0] == "-help"
-	print "\nWelcome To CSV To LDIF Converter!\n\tPlease use the following format:\n\t$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\n\tRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
+	print help_string
 # If Input file doesn't exist AND Output filename NOT given (assume user doesn't know command-line ARGS)
 elsif File.exists?(ARGV[0]) == false && ARGV[1] == nil
-  print "\nWelcome To CSV To LDIF Converter!\n\tPlease use the following format:\n\t$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\n\tRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
+  print help_string
 # If Input file exists, but Output filename NOT given
 elsif File.exists?(ARGV[0]) == true && ARGV[1] == nil
   print "\nERROR! You forgot to enter an output file name\n\n"
 # Input file doesn't exist and Output filename given
 elsif File.exists?(ARGV[0]) == false && ARGV[1] != nil
   print "\nERROR! Input file doesn't exist! check filename\n\n"
+# Input File exists, AND Output file exists, warn user about overwrite, accept y/n to continue
+elsif File.exists?(ARGV[0]) == true && File.exists?(ARGV[1]) == true
+  print "\nWARNING! Output file with the same name exists.\nDo you wish to OVERWRITE existing file? y/n\n\n"
+  answer = $stdin.gets.chomp
+  # Yes, overwrite!
+  if answer == 'y'
+    # Call Method / Convert CSV --> LDIF
+    PDPCONTEXT(input,output)
+    print "\nCOMPLETE!\n\n" 
+  # No, Do NOT overwrite!
+  elsif answer == 'n'
+    print "\nQUITTING! No Files Modified\n\n"
+  # Not Valid input!
+  elsif answer != 'y' && answer != 'n'
+    print "\nERROR! Please enter 'y' for yes overwrite the file, or 'n' for quit and do nothing\n\n"
+  end
+    
 # Otherwise: call the Method
 else
 	# Call Method / Convert CSV --> LDIF
