@@ -18,7 +18,7 @@ def PDPCONTEXT(input,output)
      # put each line into an array where each element in the array is delimitated by a ','
      csvline = line.split(",")
      # Set up the LDIF entry for each line in the CSV by accessing the array. each element in the array is a value in the entry
-     ldiffile.puts "dn: pdpContextName=#{$PDP_entry_count},o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB"
+     ldiffile.puts "dn: pdpContextName=#{@PDP_entry_count},o=pdpcontext,o=hlr,o=nss,o=services,o=default,DC=C-NTDB"
      ldiffile.puts "objectClass: PDPCONTEXT"  # objectClass name for the entry
      ldiffile.puts "vplmnAllowed: #{csvline[0]}"
      ldiffile.puts "pdpType: #{csvline[1]}"
@@ -66,7 +66,7 @@ elsif File.exists?(ARGV[0]) == true && File.exists?(ARGV[1]) == true
   elsif answer == 'n'
     print "\nQUITTING! No Files Modified\n\n"
   # Not Valid input!
-  elsif answer != 'y' && answer != 'n'
+  else
     print "\nERROR! Please enter 'y' for yes overwrite the file, or 'n' for quit and do nothing\n\n"
   end
     
@@ -76,4 +76,3 @@ else
 	PDPCONTEXT(input,output)
   print "\nCOMPLETE!\n\n"	
 end
-
