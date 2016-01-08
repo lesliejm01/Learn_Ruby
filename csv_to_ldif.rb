@@ -1,7 +1,8 @@
 # CSV to LDIF script
 # Author: John Leslie
 # Date: 28 DEC 2015
-# Usage: # ruby script.rb <input_file.csv> <output_file.ldif>
+# Usage: $ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>
+#        $ ruby csv_to_ldif.rb -help
 
 # Method
 def PDPCONTEXT(input,output)
@@ -37,12 +38,22 @@ input = ARGV[0] # input file
 output = ARGV[1] # output file
 
 # Basic Error Handling / 'help' statement
+# If no ARGS or '-help' show HELP
 if ARGV.length == 0 || ARGV[0] == "-help"
-	print "\nPlease use the following format:\n$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\nRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
-elsif ARGV[0] != nil && ARGV[1] == nil
-  print "\nYou forgot to enter an output file name\nPlease consult '-help' flag at runtime for argument list.\n\n"
+	print "\nWelcome To CSV To LDIF Converter!\n\tPlease use the following format:\n\t$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\n\tRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
+# If Input file doesn't exist AND Output filename NOT given (assume user doesn't know command-line ARGS)
+elsif File.exists?(ARGV[0]) == false && ARGV[1] == nil
+  print "\nWelcome To CSV To LDIF Converter!\n\tPlease use the following format:\n\t$ ruby csv_to_ldif.rb <input_file.csv> <output_file.ldif>\n\tRun: $ ruby csv_to_ldif.rb -help   to display this message.\n\n"
+# If Input file exists, but Output filename NOT given
+elsif File.exists?(ARGV[0]) == true && ARGV[1] == nil
+  print "\nERROR! You forgot to enter an output file name\n\n"
+# Input file doesn't exist and Output filename given
+elsif File.exists?(ARGV[0]) == false && ARGV[1] != nil
+  print "\nERROR! Input file doesn't exist! check filename\n\n"
+# Otherwise: call the Method
 else
 	# Call Method / Convert CSV --> LDIF
-	PDPCONTEXT(input,output)	
+	PDPCONTEXT(input,output)
+  print "\nCOMPLETE!\n\n"	
 end
 
